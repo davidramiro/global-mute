@@ -1,4 +1,4 @@
-﻿# mute-mic-win
+﻿# global-mute
 
 This application listens for a hotkey (`Shift` + `PAUSE` by default) to toggle mute status of the primary input device on Windows on the driver level. Optionally shows mute status on an [awtrix](https://github.com/Blueforcer/awtrix-light) pixel clock.
 

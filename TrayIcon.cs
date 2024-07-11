@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 namespace GlobalMute
 {
-    sealed class TrayIcon : IDisposable
+    internal class TrayIcon : IDisposable
     {
         public NotifyIcon NotifyIcon { get; set; }
         private readonly Icon muteIcon;
